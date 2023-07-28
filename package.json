@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "build": "yarn add"
+    "build": "npm i"
   },
   "keywords": [],
   "author": "",

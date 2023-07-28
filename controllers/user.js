@@ -1,7 +1,7 @@
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 
-import UserModal from "../schema/user.js";
+import UserModal from "../models/user.js";
 
 const secret = "test";
 
